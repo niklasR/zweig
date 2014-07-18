@@ -3,6 +3,11 @@ zweig
 
 Collect asterisk call metrics in Carbon.
 
+## Screenshot
+
+Screenshot of Graphite showing the collected data.
+![Screenshot](https://raw.githubusercontent.com/niklasR/zweig/master/zweig_graph.png)
+
 ## Ingedients
 
 zweig is a compilation of short python scripts that interact with an asterik telephony server using the AMI over a telnet connection
